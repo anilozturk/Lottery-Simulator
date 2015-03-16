@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1355162942 source:c:\users\egebilmuh\desktop\fake_calis\main.c
+	<stdio.h>
+	<stdlib.h>
+
